@@ -1,1 +1,7 @@
-# pandas-challenge
+# pandas-challenge & report
+
+#REPORT
+
+#Summary: Analysis of two databases regarding Py City’s school district performance, particularly by math and reading passing scores, along with size and budget, that show Charter schools outperforming District schools.  
+
+#Conclusion: There are two interesting things that come out of this analysis. The first is not that Charter schools outperform District schools; it is by how much they outperform. The overall passing percentage was markedly higher, as are the math scores. The other interesting thing is that the per student spend does not seem to correlate with the overall pass percentage. I would be interested in a breakdown of an itemized per student spend. Are all the schools spending the same percentage on supplies and support? Are some schools required to provide more services for their students, like food and transportation? Do they receive different levels of federal or state funding? Do they have adequate textbooks, libraries, computers? There are other socio-economic aspects of the schools and communities they serve as well. What is the teacher-student ratio? We would need more information about the schools and the students and communities they serve to be able to make any meaningful conclusions about the performance differences. 
